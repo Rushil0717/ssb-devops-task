@@ -5,3 +5,4 @@ app/config.php
 *.tar.gz
 backups/
 .DS_Store
+*:Zone.Identifier
