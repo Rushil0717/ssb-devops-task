@@ -63,3 +63,4 @@ $tasks = $pdo->query("SELECT * FROM tasks ORDER BY id DESC")->fetchAll(PDO::FETC
     </table>
 </body>
 </html>
+<!-- v1.0.0 release -->
