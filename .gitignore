@@ -1,0 +1,7 @@
+.env
+app/config.php
+*.log
+*.sql.gz
+*.tar.gz
+backups/
+.DS_Store
